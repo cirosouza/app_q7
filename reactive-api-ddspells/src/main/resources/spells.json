@@ -1,0 +1,17 @@
+{
+  "count": 2,
+  "results": [
+    {
+      "index": "delayed-blast-fireball",
+      "name": "Delayed Blast Fireball",
+      "level": 7,
+      "url": "/api/spells/delayed-blast-fireball"
+    },
+    {
+      "index": "fireball",
+      "name": "Fireball",
+      "level": 3,
+      "url": "/api/spells/fireball"
+    }
+  ]
+}
